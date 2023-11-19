@@ -1,0 +1,9 @@
+
+E	java:S106"+Replace this use of System.err by a logger.( ³±ªÿÿÿÿÿ
+@	java:S106*"+Replace this use of System.out by a logger.(§ùüŒ
+E	java:S1060"+Replace this use of System.out by a logger.(³äãàüÿÿÿÿ
+?	java:S1065"+Replace this use of System.err by a logger.(…ş×x
+U
+java:S1128":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ
+C
+java:S1068"(Remove this unused "nick" private field.(ÕŞãÿÿÿÿÿ
