@@ -1,0 +1,21 @@
+<!ELEMENT chatTool ANY>
+<!ELEMENT font ANY>
+<!ELEMENT fontName ANY>
+<!ELEMENT size ANY>
+<!ELEMENT communication ANY>
+<!ELEMENT connection ANY>
+<!ELEMENT port ANY>
+<!ELEMENT shortcuts ANY>
+<!ELEMENT shortcut ANY>
+<!ATTLIST shortcut
+	action CDATA #IMPLIED
+	key CDATA #IMPLIED
+	>
+<!ELEMENT theme ANY>
+<!ELEMENT test ANY>
+<!ELEMENT name ANY>
+<!ATTLIST name
+	attribute CDATA #IMPLIED
+	>
+<!ELEMENT age ANY>
+		<!ELEMENT something ANY>

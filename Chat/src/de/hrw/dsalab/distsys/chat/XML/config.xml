@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chatTool SYSTEM "file:///C:/Users/Neufe/Desktop/Felix/Projects/Uni/Distributed Systems/DistributedSystemsWI22-23/Chat/src/de/hrw/dsalab/distsys/chat/XML/config.dtd">
+<chatTool>
+    <font>
+        <fontName>Calibri</fontName>
+        <size>20</size>
+    </font>
+
+    <communication>
+        <connection>Socket</connection>
+        <port>1337</port>
+    </communication>
+
+    <shortcuts>
+        <shortcut action="send_message" key="Enter"/>
+    </shortcuts>
+
+    <theme>Dark</theme>
+</chatTool>
+

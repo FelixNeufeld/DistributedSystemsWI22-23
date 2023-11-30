@@ -1,0 +1,4 @@
+<test>
+    <name attribute="was">Hello</name>
+    <age>15</age>
+</test>

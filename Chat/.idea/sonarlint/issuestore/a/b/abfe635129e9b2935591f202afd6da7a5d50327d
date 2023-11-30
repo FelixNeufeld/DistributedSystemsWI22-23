@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¬ÿ
+L
+java:S1874"1Remove this use of "joinGroup"; it is deprecated.(§×­ÿÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(ç€ë¨üÿÿÿÿ
+B
+java:S1068",Remove this unused "textArea" private field.(ï³ŞÂ

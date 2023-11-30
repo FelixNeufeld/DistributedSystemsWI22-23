@@ -1,0 +1,13 @@
+
+>
+java:S16040"(Make this anonymous inner class a lambda(Î½«Ç
+C
+java:S1948"(Make "client" transient or serializable.(‚Ø–øùÿÿÿÿ
+d
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ
+Q	java:S125G"<This block of commented-out lines of code should be removed.(ú‡ÔÇ
+V	java:S125J"<This block of commented-out lines of code should be removed.(¦ó¾Íúÿÿÿÿ
+D
+java:S1905U")Remove this unnecessary cast to "String".(¿©¯þÿÿÿÿÿ
+B
+java:S1602`",Remove useless curly braces around statement( €Ç€

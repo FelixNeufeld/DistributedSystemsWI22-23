@@ -1,0 +1,17 @@
+<!ELEMENT chatTool (font, communication, shortcuts, theme)>
+
+<!ELEMENT font (fontName, size)>
+<!ELEMENT fontName (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+
+<!ELEMENT communication (connection, port)>
+<!ELEMENT connection (#PCDATA)>
+<!ELEMENT port (#PCDATA)>
+
+<!ELEMENT shortcuts (shortcut+)>
+<!ELEMENT shortcut EMPTY>
+<!ATTLIST shortcut
+        action CDATA #REQUIRED
+        key CDATA #REQUIRED>
+
+<!ELEMENT theme (#PCDATA)>
